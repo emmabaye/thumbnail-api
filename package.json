@@ -11,7 +11,7 @@
   "dependencies": {
     "express": "^4.17.1",
     "express-fileupload": "^1.2.0",
-    "sharp": "^0.26.2",
-    "thumbnail": "^0.1.9"
+    "node-thumbnail": "^0.15.0",
+    "short-uuid": "^4.1.0"
   }
 }
